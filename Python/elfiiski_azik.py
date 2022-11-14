@@ -1,0 +1,1 @@
+while True: print(input("Enter a message: ")[::-1])
